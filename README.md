@@ -7,9 +7,9 @@ Key aspects:
  - Read in the data
  - Combined the dataframes into one
  - Cleaned the data, including handling of duplicates
- - Produce summary statistics
- - Visualise the data in both pandas and matplotlib
- - Calculate the correlation coefficient and linear regression
+ - Produced summary statistics
+ - Visualised the data in both pandas and matplotlib
+ - Calculated the correlation coefficient and linear regression
  
 ![tumor_regimen](tumor_regimen.png) 
 <br/>

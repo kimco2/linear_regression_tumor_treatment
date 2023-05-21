@@ -12,7 +12,7 @@ Key aspects:
  - Calculate the correlation coefficient and linear regression
  
 ![tumor_regimen](tumor_regimen.png) 
-
+<br/>
 ![r_squared](r_squared.png) 
 
 ------------------------------------------------------------------------
